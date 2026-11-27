@@ -8,25 +8,6 @@ Currently working in Master Data Management at Sarantis Group, using SAP S/4HANA
 
 My focus is on transforming complex data into actionable business insights through analytics, statistical modeling and machine learning.
 
-## Education
-
-- MSc in Data Science & Machine Learning
-- BSc in Mathematics
-- Professional Diploma in Digital Marketing
-
-## Technical Skills
-
-| Domain | Tools & Technologies |
-|---|---|
-| Programming | Python, R, SQL |
-| Business Intelligence | Power BI, DAX, Power Query, Tableau |
-| Databases | PostgreSQL, MySQL, SQLite |
-| Data Science | Pandas, NumPy, scikit-learn |
-| Machine Learning | Regression, Classification, Clustering |
-| Statistics | Statistical Analysis, Hypothesis Testing, Time Series |
-| Enterprise Systems | SAP S/4HANA, Master Data Management |
-| Development Tools | Git, GitHub, VS Code, Jupyter |
-
 ## Featured Projects
 
 ### Pharma Sales Analytics Dashboard
@@ -62,6 +43,25 @@ Planned components:
 **Planned technologies:** Python, PostgreSQL, scikit-learn, Power BI
 
 [View Project](https://github.com/pasxalisag/pharma-customer-intelligence-platform)
+
+## Education
+
+- MSc in Data Science & Machine Learning
+- BSc in Mathematics
+- Professional Diploma in Digital Marketing
+
+## Technical Skills
+
+| Domain | Tools & Technologies |
+|---|---|
+| Programming | Python, R, SQL |
+| Business Intelligence | Power BI, DAX, Power Query, Tableau |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Data Science | Pandas, NumPy, scikit-learn |
+| Machine Learning | Regression, Classification, Clustering |
+| Statistics | Statistical Analysis, Hypothesis Testing, Time Series |
+| Enterprise Systems | SAP S/4HANA, Master Data Management |
+| Development Tools | Git, GitHub, VS Code, Jupyter |
 
 ## Professional Interests
 

@@ -2,53 +2,37 @@
 
 **Data Analytics | Business Intelligence | Data Science**
 
-I combine a background in Mathematics and Data Science with nearly a decade of commercial experience in the pharmaceutical and healthcare industry.
+Mathematics and Data Science graduate with nearly a decade of commercial experience in the pharmaceutical and healthcare industry.
 
 Currently working in Master Data Management at Sarantis Group, using SAP S/4HANA in an international business environment.
 
-My focus is on transforming complex data into actionable business insights through analytics, statistical modeling and machine learning.
-
 ## Featured Projects
 
-### Pharma Sales Analytics Dashboard
+### [Pharma Sales Analytics Dashboard](https://github.com/pasxalisag/pharma-sales-analytics-dashboard)
 
-An end-to-end business intelligence solution built with Power BI using synthetic pharmaceutical sales data.
+An end-to-end business intelligence solution using synthetic pharmaceutical sales data.
 
-- Dimensional data modeling and star schema
+- Interactive Power BI dashboards
+- Star schema and dimensional data modeling
 - 35 DAX measures
-- Revenue and profitability-related commercial analysis
-- Customer and product performance analysis
-- Discount effectiveness and pricing analysis
-- Interactive dashboards and business insights
+- Customer, product and revenue analysis
+- Pricing and discount effectiveness
 
-**Technologies:** Power BI, DAX, Power Query
+**Stack:** Power BI, DAX, Power Query
 
-[View Project](https://github.com/pasxalisag/pharma-sales-analytics-dashboard)
-
-### Pharma Customer Intelligence Platform
+### [Pharma Customer Intelligence Platform](https://github.com/pasxalisag/pharma-customer-intelligence-platform)
 
 **Status: In Development**
 
-A customer intelligence project designed to integrate data engineering, machine learning and business intelligence.
-
-Planned components:
+An end-to-end customer intelligence platform with planned components:
 
 - Relational database design and ETL
-- Customer segmentation and RFM analysis
-- Customer churn prediction
+- RFM analysis and customer segmentation
+- Churn prediction
 - Revenue forecasting
 - Customer lifetime value analysis
-- Business intelligence reporting
 
-**Planned technologies:** Python, PostgreSQL, scikit-learn, Power BI
-
-[View Project](https://github.com/pasxalisag/pharma-customer-intelligence-platform)
-
-## Education
-
-- MSc in Data Science & Machine Learning
-- BSc in Mathematics
-- Professional Diploma in Digital Marketing
+**Planned stack:** Python, PostgreSQL, scikit-learn, Power BI
 
 ## Technical Skills
 
@@ -61,16 +45,17 @@ Planned components:
 | Machine Learning | Regression, Classification, Clustering |
 | Statistics | Statistical Analysis, Hypothesis Testing, Time Series |
 | Enterprise Systems | SAP S/4HANA, Master Data Management |
-| Development Tools | Git, GitHub, VS Code, Jupyter |
+| Development | Git, GitHub, VS Code, Jupyter |
+
+## Education
+
+- MSc in Data Science & Machine Learning
+- BSc in Mathematics
+- Professional Diploma in Digital Marketing
 
 ## Professional Interests
 
-- Business Intelligence & Commercial Analytics
-- Applied Machine Learning
-- Predictive Analytics
-- Customer Intelligence
-- Data Quality & Master Data Management
-- Data-driven Decision Making
+Commercial Analytics, Business Intelligence, Applied Machine Learning, Customer Intelligence and Data Quality.
 
 ## Contact
 
